@@ -1,5 +1,9 @@
 ### Hi 👋🏼 I'm Ana! 
-Frontend developer with expertise in React, JavaScript, and Redux Toolkit.
+Frontend developer with 3+ years of experience in designing and building scalable and responsive web applications, specializing in React.js, Vue.js, JavaScript, TypeScript, and Redux.
+
+Also proficient in UX/UI design (Figma, Prototyping, HTML, CSS).
+
+Eligible to work in the Netherlands (Highly Skilled Migrant Visa).
 
 I'm passionate about learning new technologies and UX/UI 🚀
 
