@@ -3,8 +3,6 @@ Frontend developer with 3+ years of experience in designing and building scalabl
 
 Also proficient in UX/UI design (Figma, Prototyping, HTML, CSS).
 
-Eligible to work in the Netherlands (Highly Skilled Migrant Visa).
-
 I'm passionate about learning new technologies and UX/UI 🚀
 
 ## My Skill Set  
